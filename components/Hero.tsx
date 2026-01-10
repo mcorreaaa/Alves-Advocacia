@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
           </div>
         </div>
 
-        <div className="hidden md:block relative h-[600px] w-full bg-corporate-dark/50">
+        <div className="relative h-64 md:h-[600px] w-full bg-corporate-dark/50 mt-8 md:mt-0">
           {/* Minimalist image composition */}
           <div className="absolute top-10 right-10 w-4/5 h-4/5 bg-corporate-petrol/10 z-0 border border-corporate-petrol/20"></div>
           <img
