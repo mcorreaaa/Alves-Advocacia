@@ -120,7 +120,7 @@ const Services: React.FC = () => {
   return (
     <Section theme="light" className="bg-[#f4f1ea]">
       <div className="grid lg:grid-cols-12 gap-12 lg:gap-16">
-        <div className="lg:col-span-5 self-start sticky top-24">
+        <div className="lg:col-span-5 self-start lg:sticky lg:top-24">
           <h2 className="text-corporate-petrol text-sm uppercase tracking-[0.3em] font-bold mb-4">Nossa Expertise</h2>
           <h2 className="text-3xl md:text-5xl font-light text-corporate-dark mb-8 leading-tight">Como podemos ajudar</h2>
           <p className="text-gray-600 mb-8 text-lg font-light leading-relaxed">
